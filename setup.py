@@ -13,7 +13,7 @@ from setuptools import find_packages, setup, Command
 
 # Package meta-data.
 NAME = 'Assault'
-DESCRIPTION = 'A Python based Web loading test tool'
+DESCRIPTION = 'A Python language based Web loading test tool'
 URL = 'https://github.com/nikhilchandraborkar/Python'
 EMAIL = 'nikhil.cb123@gmail.com'
 AUTHOR = 'Nikhil chandra Borkar'
