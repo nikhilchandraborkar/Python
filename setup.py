@@ -14,7 +14,7 @@ from setuptools import find_packages, setup, Command
 # Package meta-data.
 NAME = 'Assault'
 DESCRIPTION = 'A Python based Web loading test tool'
-URL = 'https://github.com/users/nikhilchandraborkar/projects/1'
+URL = 'https://github.com/nikhilchandraborkar/Python'
 EMAIL = 'nikhil.cb123@gmail.com'
 AUTHOR = 'Nikhil chandra Borkar'
 REQUIRES_PYTHON = '>=3.7.0'
@@ -120,7 +120,7 @@ setup(
         'License :: OSI Approved :: MIT License',
         'Programming Language :: Python',
         'Programming Language :: Python :: 3',
-        'Programming Language :: Python :: 3.6',
+        'Programming Language :: Python :: 3.7',
         'Programming Language :: Python :: Implementation :: CPython',
         'Programming Language :: Python :: Implementation :: PyPy'
     ],
